@@ -1,0 +1,2 @@
+# PusakaOfJavaHack1
+1
